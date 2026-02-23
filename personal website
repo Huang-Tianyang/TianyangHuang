@@ -1,0 +1,71 @@
+index.html
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Tianyang Huang</title>
+
+<style>
+
+body {
+font-family: Arial;
+max-width:800px;
+margin:auto;
+margin-top:50px;
+}
+
+h1 {
+text-align:center;
+}
+
+a {
+font-size:20px;
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+<h1>Tianyang Huang</h1>
+
+<p align="center">
+PhD Student – AI for Optics<br>
+University of Wisconsin–Madison
+</p>
+
+<h2>Documents</h2>
+
+<p>
+
+<a href="CV_2026.docx">
+Download CV
+</a>
+
+</p>
+
+<p>
+
+<a href="Resume_2026.docx">
+Download Resume
+</a>
+
+</p>
+
+
+<h2>Contact</h2>
+
+Email:
+
+<a href="mailto:thuang272@wisc.edu">
+
+thuang272@wisc.edu
+
+</a>
+
+</body>
+
+</html>
